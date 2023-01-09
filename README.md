@@ -38,6 +38,9 @@ I have tried to provide a source for most resources, but some books/courses are 
     * What is Learning to Rank? [[Blog]](https://opensourceconnections.com/blog/2017/02/24/what-is-learning-to-rank/)
     * How is search different than other machine learning problems? [[Blog]](https://opensourceconnections.com/blog/2017/08/03/search-as-machine-learning-prob/)
     * Search at Farfetch - A glimpse of Semantic Search [[Blog]](https://www.linkedin.com/pulse/search-farfetch-glimpse-semantic-jos%C3%A9-marcelino/?articleId=6689203537345347585)
+    * Cross-Lingual End-to-End Product Search with Deep Learning [[Blog]](https://engineering.zalando.com/posts/2018/02/search-deep-neural-network.html)
+    * Neural Search Frameworks: A Head-to-Head Comparison [[Blog]](https://dmitry-kan.medium.com/neural-search-frameworks-a-head-to-head-comparison-976aa6662d20)
+    * Vector Podcast [[Podcast]](https://www.youtube.com/@VectorPodcast/featured)
   * **NLP**
     * In-depth article on self-attention [[Blog]](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
     * A Comprehensive Guide to Neural Machine Translation using Seq2Seq Modelling using PyTorch. [[Blog]](https://towardsdatascience.com/a-comprehensive-guide-to-neural-machine-translation-using-seq2sequence-modelling-using-pytorch-41c9b84ba350)
